@@ -1,7 +1,5 @@
 # DefenseAdvAttacks
 
-# LDA_Lab_Defence
-
 ## Learning Path
 
 ### Understanding NLP
