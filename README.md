@@ -1,6 +1,7 @@
 # DefenseAdvAttacks
 
-This repository represents the contribution files with comments of the project developed for the Praktikum "LDA Lab" in the SS-2022 of the Legal Tech chair of the TUM Informatics Department.
+This repository contains the code* and contribution with comments of the project developed for the Praktikum "LDA Lab" in the SS-2022 of the Legal Tech chair of the TUM Informatics Department.
+##### * Some code was not developed directly by me but it has been reference within the JupyterNotebooks/GoogleColab files.
 
 ## Learning Path
 
